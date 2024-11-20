@@ -1,2 +1,2 @@
 # Password-Manager
-This is the open source Command line Password Manager.
+This is the Python based Command line Password Manager.
